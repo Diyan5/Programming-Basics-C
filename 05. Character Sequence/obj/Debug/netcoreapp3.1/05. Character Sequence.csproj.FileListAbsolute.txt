@@ -1,0 +1,14 @@
+C:\Users\Diyan\source\repos\For Loop - Lab\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.exe
+C:\Users\Diyan\source\repos\For Loop - Lab\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.deps.json
+C:\Users\Diyan\source\repos\For Loop - Lab\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.runtimeconfig.json
+C:\Users\Diyan\source\repos\For Loop - Lab\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.runtimeconfig.dev.json
+C:\Users\Diyan\source\repos\For Loop - Lab\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.dll
+C:\Users\Diyan\source\repos\For Loop - Lab\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.pdb
+C:\Users\Diyan\source\repos\For Loop - Lab\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.csproj.AssemblyReference.cache
+C:\Users\Diyan\source\repos\For Loop - Lab\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diyan\source\repos\For Loop - Lab\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.AssemblyInfoInputs.cache
+C:\Users\Diyan\source\repos\For Loop - Lab\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.AssemblyInfo.cs
+C:\Users\Diyan\source\repos\For Loop - Lab\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.csproj.CoreCompileInputs.cache
+C:\Users\Diyan\source\repos\For Loop - Lab\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.dll
+C:\Users\Diyan\source\repos\For Loop - Lab\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.pdb
+C:\Users\Diyan\source\repos\For Loop - Lab\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.genruntimeconfig.cache

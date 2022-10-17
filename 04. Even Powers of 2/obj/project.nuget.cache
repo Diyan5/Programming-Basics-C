@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w2KyKuE6d6fmR+mDXO4r7HVRR4u3RAYjOHZqaS/ltBD1MNNeAuZuTpcLY8aLHdmmaKemSg+gavZ46fpUskO0IQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\For Loop - Lab\\04. Even Powers of 2\\04. Even Powers of 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

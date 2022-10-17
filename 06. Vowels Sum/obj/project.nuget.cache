@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ma96/KRd7n0EsnNwXmKr6LWEOoIBtpnE72YX4x0B4IE3Aq7d0OHilBloz7b4kG1bv/9uKo6oNk4/uhrKwfjFxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\For Loop - Lab\\06. Vowels Sum\\06. Vowels Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

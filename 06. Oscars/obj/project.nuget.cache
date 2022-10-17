@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZZWaGYoAKtsc8leG8/R6Iqqb1Vtu4NP7F2jRrJnpXeHhjl1JUjYKEnDxdHgWDXno2TfNzIjLQ8Ccmq2knBq8Sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\For Loop - Exercise\\06. Oscars\\06. Oscars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XLII0qPwh/LAskyPgMp3lbhyUnrqSLVFBcGrJtRWyhHlPzb13517Kk/Oc1cNC9pDypu0os8uwAbylWw+16IMmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\For Loop - Exercise\\04. Clever Lily\\04. Clever Lily.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

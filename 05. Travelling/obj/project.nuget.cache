@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jxCKLJSIzTAkiIc3N2mMSKYmmtgAWX9Dq8uq8wSYx7CI6D7R58A2pxFttwUPkVS1lqkrfexZ9JZfN+HrQG6VOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\Nested Loops - Lab\\05. Travelling\\05. Travelling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

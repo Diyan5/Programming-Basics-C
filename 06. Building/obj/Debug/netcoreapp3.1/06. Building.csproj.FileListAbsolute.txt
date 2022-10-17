@@ -1,0 +1,14 @@
+C:\Users\Diyan\source\repos\Nested Loops - Lab\06. Building\bin\Debug\netcoreapp3.1\06. Building.exe
+C:\Users\Diyan\source\repos\Nested Loops - Lab\06. Building\bin\Debug\netcoreapp3.1\06. Building.deps.json
+C:\Users\Diyan\source\repos\Nested Loops - Lab\06. Building\bin\Debug\netcoreapp3.1\06. Building.runtimeconfig.json
+C:\Users\Diyan\source\repos\Nested Loops - Lab\06. Building\bin\Debug\netcoreapp3.1\06. Building.runtimeconfig.dev.json
+C:\Users\Diyan\source\repos\Nested Loops - Lab\06. Building\bin\Debug\netcoreapp3.1\06. Building.dll
+C:\Users\Diyan\source\repos\Nested Loops - Lab\06. Building\bin\Debug\netcoreapp3.1\06. Building.pdb
+C:\Users\Diyan\source\repos\Nested Loops - Lab\06. Building\obj\Debug\netcoreapp3.1\06. Building.csproj.AssemblyReference.cache
+C:\Users\Diyan\source\repos\Nested Loops - Lab\06. Building\obj\Debug\netcoreapp3.1\06. Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diyan\source\repos\Nested Loops - Lab\06. Building\obj\Debug\netcoreapp3.1\06. Building.AssemblyInfoInputs.cache
+C:\Users\Diyan\source\repos\Nested Loops - Lab\06. Building\obj\Debug\netcoreapp3.1\06. Building.AssemblyInfo.cs
+C:\Users\Diyan\source\repos\Nested Loops - Lab\06. Building\obj\Debug\netcoreapp3.1\06. Building.csproj.CoreCompileInputs.cache
+C:\Users\Diyan\source\repos\Nested Loops - Lab\06. Building\obj\Debug\netcoreapp3.1\06. Building.dll
+C:\Users\Diyan\source\repos\Nested Loops - Lab\06. Building\obj\Debug\netcoreapp3.1\06. Building.pdb
+C:\Users\Diyan\source\repos\Nested Loops - Lab\06. Building\obj\Debug\netcoreapp3.1\06. Building.genruntimeconfig.cache

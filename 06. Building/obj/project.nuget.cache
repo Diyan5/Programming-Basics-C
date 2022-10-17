@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wcSBZBNu+1UVsl8QmIMah0D9Rr7zQorOBSHR2hb1+mg8wHKB1BHKHoa6wLSN+Kn7bA+pALmCSbJcoNcsShAiZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\Nested Loops - Lab\\06. Building\\06. Building.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

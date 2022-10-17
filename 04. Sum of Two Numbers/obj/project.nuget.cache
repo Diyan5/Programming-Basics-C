@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cbJg/qoGFove/71G8SYI826jriLnDG33QbKcxhXiYq3Da9MGBzJv9x/GiHKQNIf7kP+PmQL1I3f3m117ftXJjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\Nested Loops - Lab\\04. Sum of Two Numbers\\04. Sum of Two Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tURD8BbR9gwN33hzdkvtsbscvjyAxdz5pAHdID6kv7PAZFE/sfdHB3kRI+EGoFfKaQUcQxAucPOru7ttvbyGlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\For Loop - Exercise\\03. Histogram\\03. Histogram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

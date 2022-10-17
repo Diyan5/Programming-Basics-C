@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qjfXXJ03Ksmp48zIUj/pNDZEgos1xfjQNhUUoKbHHuLINPGl/XPh4GfE/pE4JBwywb0jz02LFARWcMUCu/lJhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\For Loop - Exercise\\02. Half Sum Element\\02. Half Sum Element.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

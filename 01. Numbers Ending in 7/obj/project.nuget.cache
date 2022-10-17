@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zRt7su6g+Cp5+vP9sZ0lzLRQdzdMRYQopKdBMDsqEZ71c+xnFIsmmj6YiDRis8gE4JsxE9Xzvhf5CgbuCr/ehw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\For Loop - Exercise\\01. Numbers Ending in 7\\01. Numbers Ending in 7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

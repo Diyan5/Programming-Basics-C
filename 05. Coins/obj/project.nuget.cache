@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bjzcIUlitYQvn9Mvu865pIv9ITBwq3UON8vL9G4ZJvYyO4oF6eSKmgzNNgHHR3ezvyFdABuh2RHuR/mwqdP+aQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\While Loop - Exercise\\05. Coins\\05. Coins.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

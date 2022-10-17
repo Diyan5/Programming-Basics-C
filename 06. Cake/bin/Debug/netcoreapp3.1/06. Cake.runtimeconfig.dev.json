@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Diyan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Diyan\\.nuget\\packages"
+    ]
+  }
+}

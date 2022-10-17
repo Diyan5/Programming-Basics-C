@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BCkLyQq8pDiTqOI0Sj6kIrNCe3DhHUONbTXIGEmSdjyMKopFkGlTRYfro6SUmjPyBWSewaiTGVKmaxxaOT1Mvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\While Loop - Exercise\\07. Moving\\07. Moving.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8uKcKYBqlFajUAX1hWCeQ8LIFgA+UjsCrsL+1Ud7j+Eot9vmGfrtTq7HB5zn7Q+KLodUA3JGWyO0usKJPeZWWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\While Loop - Exercise\\06. Cake\\06. Cake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

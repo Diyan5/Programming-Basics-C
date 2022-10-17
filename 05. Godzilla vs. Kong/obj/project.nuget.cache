@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T0Za+P8KvDeDS9/C1274AHkscX4KyghQbCc2JI/uepaMXN0y29/U47UofZT9k5zZP6TSl5wPUPcZyBLDV8V6pA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\Conditional Statements - Exercise\\05. Godzilla vs. Kong\\05. Godzilla vs. Kong.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

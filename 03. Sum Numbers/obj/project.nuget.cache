@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "idfhYZszmTVRRGXgdMS+zxmDGIv8DhXCyuOr++ygm3nCvPLqcSm2eIN5dsNng7HZH1xNillgsqpVebcpy8W38w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\While Loop - Lab\\03. Sum Numbers\\03. Sum Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

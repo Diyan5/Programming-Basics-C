@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NSbgvgP32aafjlM8rQN54np7dyAymWEXyvkcqk7p37tCQUWIrUG2CWo4X0UqmK++RK9ekoIh4j0q/MpL987PIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\While Loop - Lab\\01. Read Text\\01. Read Text.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

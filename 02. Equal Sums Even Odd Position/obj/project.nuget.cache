@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s14YJlmcdDy+5l6VJaIftRWWvA9q/GKFCmC557ujmk4veeYwv6Cu5JtW2c1hnKBJL+NyQB5UA0nYz4ZbqVzQYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\Nested Loops - Exercise\\02. Equal Sums Even Odd Position\\02. Equal Sums Even Odd Position.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

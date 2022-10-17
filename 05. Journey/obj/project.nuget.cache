@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3DU2ke8+b28iTf/+9u2ek0b1xg4jlIz74Yy4Uzl3+nQCyj0iHcx+nqJVb4hzyr25iPYAA6024UiM79VoN6a90Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\Conditional Statements Advanced - Exercise\\05. Journey\\05. Journey.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

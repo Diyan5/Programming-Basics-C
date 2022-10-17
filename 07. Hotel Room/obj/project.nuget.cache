@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1OahUuBvQtETOVZNVKzOtRsrBVjew7fyJ0PilxDzhGwAIbXnwm3fOSAepnjBUIE7aW8WMXl2s3jFLIUXLscgrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\Conditional Statements Advanced - Exercise\\07. Hotel Room\\07. Hotel Room.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

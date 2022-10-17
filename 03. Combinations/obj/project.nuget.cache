@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sht+AmhE8La5CEkeGVZxOm2ZefefcI5VYwYvBlnkoILAsvEz9ISxmQxqNj4zTZBUNn3V3W1v7yqPNRoiEYN1RA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\Nested Loops - Lab\\03. Combinations\\03. Combinations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NZX69vnT1U5rqRDj18wM67/5AoaOeuZW5d0pcJ8pl3hbU0ka3HvqRmkAsPLgHkyv1B9luf3JdWANF2MdUwCF5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\Nested Loops - Lab\\01. Clock\\01. Clock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

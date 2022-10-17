@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OKX0UBdpj2ZVNzApOq8cnvkOHLfd0yfRjZNr4kh8HTK8NQXk3osj9Q+/DDBoP03Zkbqe1JZyNBUGqzKw87a3DA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\Conditional Statements - Exercise\\03. Time + 15 Minutes\\03. Time + 15 Minutes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fSNfhkPV6SegKTarq03WoKPr4iXnT2PgDPgPIXA31x/sHNeQWDV2F+UbRwXI7IJ3jcVRjTyo2C5dooj/coWxNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\Conditional Statements - Exercise\\01. Sum Seconds\\01. Sum Seconds.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

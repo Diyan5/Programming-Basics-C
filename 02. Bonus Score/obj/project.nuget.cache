@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M1mWCFR2P78s1VJF4n47SWRQEyQGy37EdpTXBiljRvuN/HEQyjMUbYI+jYeg/J33me7an2bRSJvo90vN0w/U8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\Conditional Statements - Exercise\\02. Bonus Score\\02. Bonus Score.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

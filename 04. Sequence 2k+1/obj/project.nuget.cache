@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "orHfYT2bi5VzWghqvVjgsKP1AI6XCsKq7hN6nJrFTmBeXbEZ1824WFNzz73tp14zRIqPVFhfCagqRK5JVwnyYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\While Loop - Lab\\04. Sequence 2k+1\\04. Sequence 2k+1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

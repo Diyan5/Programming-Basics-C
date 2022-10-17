@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0pt/wY5tZCoqwO3q30lM0QuK5G7Lvbp9u8+jMdVoed09oHsuaTnQ5oZQOCl6Ozx6XGQTJF2HldMKZgAN1HSnnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\While Loop - Lab\\05. Account Balance\\05. Account Balance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

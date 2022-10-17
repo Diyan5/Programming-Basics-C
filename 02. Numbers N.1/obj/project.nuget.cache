@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aehi4y5lTo88ERuiqVxhFCrng41ImrqManyzyuWDeocyLtI6dCEFzqylhwpTvx9+1zzol3hiqDdjDNy/N58OTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\For Loop - Lab\\02. Numbers N.1\\02. Numbers N.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

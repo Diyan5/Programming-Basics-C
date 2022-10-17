@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z/TFUbsfEgoD+JDNYVafmsdZCbn5naicj4+0QNkOYfrNbTVfJQjPH8ieHWb9ppsjVXcDZI6v1fi5LAy3QM/4sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\While Loop - Exercise\\03. Vacation\\03. Vacation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

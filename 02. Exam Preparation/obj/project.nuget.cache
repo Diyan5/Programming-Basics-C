@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9U6FfePbcIxMd3zS3MtKNZ2BsHjqV58irxq8FyU6/YFLWZxz63JamQmSoGlUo+9y4yDLOs6qtzvqeHUbrCfBLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\While Loop - Exercise\\02. Exam Preparation\\02. Exam Preparation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

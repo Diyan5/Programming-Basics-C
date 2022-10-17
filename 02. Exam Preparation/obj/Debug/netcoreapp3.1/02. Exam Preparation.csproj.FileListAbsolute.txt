@@ -1,0 +1,5 @@
+C:\Users\Diyan\source\repos\While Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.csproj.AssemblyReference.cache
+C:\Users\Diyan\source\repos\While Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diyan\source\repos\While Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.AssemblyInfoInputs.cache
+C:\Users\Diyan\source\repos\While Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.AssemblyInfo.cs
+C:\Users\Diyan\source\repos\While Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vn7ecIHB5cX+aiSaJlkcFgaxUwIzEjqk0/eoXIXQitsqGbVn1+Dw6X/bifmPLaglAGWHHPocdXnUCrGUOGBXzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\Conditional Statements Advanced - Lab\\11. Fruit Shop\\11. Fruit Shop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

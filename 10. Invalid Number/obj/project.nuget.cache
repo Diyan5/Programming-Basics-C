@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KbRzqF7EKhncD2Cq+tIAU/hW+EUmrmdREuwUEdpKtGDPa3gyJ7Gs6tnl9q0rEawsVEDx9pjJdJlbjaZnTBSpYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\Conditional Statements Advanced - Lab\\10. Invalid Number\\10. Invalid Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V3HzV5ntZN6T/jkOa/kBMn8XsJe0w9cDW3+epZwxNPym9lm7U7Fcj8pYbfAVVke1nPhjEOWRd1u6Q0WfaH0Iow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\Conditional Statements Advanced - Lab\\09. Fruit or Vegetable\\09. Fruit or Vegetable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

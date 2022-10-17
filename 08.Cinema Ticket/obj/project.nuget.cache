@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ba+aI59AeeM2ppbwkqRvh4lc0YM2n/eeT6sB9eWdRSF8sQ/jOVgWe3kBgjs8ZwND8qwmv+Czj0bvMsTgWMjfqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\Conditional Statements Advanced - Lab\\08.Cinema Ticket\\08.Cinema Ticket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

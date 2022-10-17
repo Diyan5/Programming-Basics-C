@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IODzyrQd3G2IVnXPH3mtKVlSZds4YMJSljx5N/PRxPNhcPJHgG7cytAOtc26DRzntCLhukbI3R3uFpAd0jggcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\Conditional Statements Advanced - Exercise\\04. Fishing Boat\\04. Fishing Boat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tgxp5TguTpx18jp7uVjaRKh4h1T3mh75GRhwhoGeejSCUGLHO+xr+00xIORjzQLxil7Yt+i97E2sKiAKBhWp6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\Conditional Statements Advanced - Exercise\\01. Cinema\\01. Cinema.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AduVuCf+hVf9eDYqYEfbIbXyC3GnlrVfnOU03K2EKl73fybZ3Q4r0dFY+fLv/b0+c+65cI/VaEoQJgVuRO/T3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\Conditional Statements - Exercise\\08. Lunch Break\\08. Lunch Break.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

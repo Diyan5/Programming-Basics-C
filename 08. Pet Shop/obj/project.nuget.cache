@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d0y8weKmlPByHMQ/pJcnS+1qb2h5qxELf62LPxpL5t7YLR+kdf5PgPeEXTmu2SLMoX4HWUo/LmvXyeXmi+8Fjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\Documents\\C# exercise\\First Steps In Coding - Lab\\08. Pet Shop\\08. Pet Shop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

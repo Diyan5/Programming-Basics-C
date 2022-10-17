@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jLMnuwLj9i7Xi11j/8j+jXgfiDzu3hIUX5crNjEoWM5WCch0YOJLozM552K3NcSA4TMwVPOM7OqZiO8Z2NBs0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\Documents\\C# exercise\\First Steps In Coding - Lab\\09. Yard Greening\\09. Yard Greening.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

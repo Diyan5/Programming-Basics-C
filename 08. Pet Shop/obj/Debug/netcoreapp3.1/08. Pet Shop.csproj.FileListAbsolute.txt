@@ -1,0 +1,14 @@
+C:\Users\Diyan\source\repos\First Steps In Coding - Lab\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.exe
+C:\Users\Diyan\source\repos\First Steps In Coding - Lab\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.deps.json
+C:\Users\Diyan\source\repos\First Steps In Coding - Lab\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.runtimeconfig.json
+C:\Users\Diyan\source\repos\First Steps In Coding - Lab\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.runtimeconfig.dev.json
+C:\Users\Diyan\source\repos\First Steps In Coding - Lab\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.dll
+C:\Users\Diyan\source\repos\First Steps In Coding - Lab\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.pdb
+C:\Users\Diyan\source\repos\First Steps In Coding - Lab\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.csproj.AssemblyReference.cache
+C:\Users\Diyan\source\repos\First Steps In Coding - Lab\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diyan\source\repos\First Steps In Coding - Lab\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.AssemblyInfoInputs.cache
+C:\Users\Diyan\source\repos\First Steps In Coding - Lab\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.AssemblyInfo.cs
+C:\Users\Diyan\source\repos\First Steps In Coding - Lab\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.csproj.CoreCompileInputs.cache
+C:\Users\Diyan\source\repos\First Steps In Coding - Lab\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.dll
+C:\Users\Diyan\source\repos\First Steps In Coding - Lab\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.pdb
+C:\Users\Diyan\source\repos\First Steps In Coding - Lab\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.genruntimeconfig.cache

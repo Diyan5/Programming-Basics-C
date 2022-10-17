@@ -1,0 +1,14 @@
+C:\Users\Diyan\source\repos\First Steps In Coding - Lab\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.exe
+C:\Users\Diyan\source\repos\First Steps In Coding - Lab\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.deps.json
+C:\Users\Diyan\source\repos\First Steps In Coding - Lab\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.runtimeconfig.json
+C:\Users\Diyan\source\repos\First Steps In Coding - Lab\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.runtimeconfig.dev.json
+C:\Users\Diyan\source\repos\First Steps In Coding - Lab\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.dll
+C:\Users\Diyan\source\repos\First Steps In Coding - Lab\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.pdb
+C:\Users\Diyan\source\repos\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.csproj.AssemblyReference.cache
+C:\Users\Diyan\source\repos\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diyan\source\repos\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.AssemblyInfoInputs.cache
+C:\Users\Diyan\source\repos\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.AssemblyInfo.cs
+C:\Users\Diyan\source\repos\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.csproj.CoreCompileInputs.cache
+C:\Users\Diyan\source\repos\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.dll
+C:\Users\Diyan\source\repos\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.pdb
+C:\Users\Diyan\source\repos\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.genruntimeconfig.cache

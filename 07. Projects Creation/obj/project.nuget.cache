@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yTaoQUnn6TDrLdg0WfrFYHgD5sHi8zgrSg6qOqT+yoUoMHCoJkVN0kT2JkggOa/Te0pvNZrQ3BvfZ9XV+8l+RQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\Documents\\C# exercise\\First Steps In Coding - Lab\\07. Projects Creation\\07. Projects Creation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

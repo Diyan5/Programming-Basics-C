@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zWPOfuuifZsvP/jhAP6nEplhynXL5Vux0FBhNJGrQNnZR7QEIn9e0CnZZRgoEA3iRTmrfYD/HRy4k9fiO8MZYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\Documents\\C# exercise\\First Steps In Coding - Lab\\06. Concatenate Data\\06. Concatenate Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n36iS2Tta0N/a24plR73IxihGukufU2JHJlI7LPGu6XJ0ImWJqfTE0LFrVvzAF6G2WC263xSWV2aVGdYZvAL6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\Conditional Statements Advanced - Lab\\04. Personal Titles\\04. Personal Titles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

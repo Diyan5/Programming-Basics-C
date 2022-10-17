@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tSJogtOPmhAjG/ztlMJ2g5hn0zLOgwXF7qlWmeVnBEsAdijX6vl6UHnueQV8C55V/fQ912pcTf6Qn6i6FvDvSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\Conditional Statements Advanced - Lab\\06. Number in Range\\06. Number in Range.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

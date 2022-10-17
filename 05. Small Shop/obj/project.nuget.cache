@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xEFqStV1gzMOtRp4bSP9JCrbzqVsAbPrQseQyJotx7m+kSnYrNOlP8pg7NJv/pFCtrGlxDedB7FbiXkQsReLPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\Conditional Statements Advanced - Lab\\05. Small Shop\\05. Small Shop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

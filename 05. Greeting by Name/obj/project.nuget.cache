@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ehhgqHJbqFFAOUXD6v+EdLnOtghQI32HvYttiTJfG/IEqgaukijk/R0ZEjrTJ0gHJwWffTuf7UU4xlOi1v9DmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\Documents\\C# exercise\\First Steps In Coding - Lab\\05. Greeting by Name\\05. Greeting by Name.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

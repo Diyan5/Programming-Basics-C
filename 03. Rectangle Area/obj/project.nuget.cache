@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oeDr5w9HgTFgQREyXDr2KDSM9BgUSRZExb68IVnNHvWcpM2Xzq+r0yFh/4744vABdEVCYdTg+xjwrvsSpZIfSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\Documents\\C# exercise\\First Steps In Coding - Lab\\03. Rectangle Area\\03. Rectangle Area.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

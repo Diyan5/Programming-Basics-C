@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pidG1KnBorcgmzKUOgWYVpJ06o4dVv46Q/BE1KqY9OumJavnpao9AVOnN+Ut1R0Oi/VdNRFdCNLQaciBBlbOXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\Documents\\C# exercise\\First Steps In Coding - Lab\\02. Nums 1to10\\02. Nums 1to10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

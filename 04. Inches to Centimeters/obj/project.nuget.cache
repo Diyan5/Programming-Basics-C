@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wVV7nvC1tQ7Dua4iH6JbJSIbI6X8G6L2XSbv3H8KkOJ5Hng1pdQT4N009rARkpmFmpZKjZ44NA1XCcXmaLdi6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\Documents\\C# exercise\\First Steps In Coding - Lab\\04. Inches to Centimeters\\04. Inches to Centimeters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

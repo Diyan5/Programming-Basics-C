@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rTkw7tSulDxJJ+hfpJLG/EyXFwozeDnPClJuYQWuB5LTMV2gH+DVfB/I9wNP52QCT3r/1WMdTrX/lrn/PJBjGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\While Loop - Lab\\07. Min Number\\07. Min Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UbLvteby3QmBbZD5QTeYr9yReAcrSeV5w/3c5DoDE7kL/KO5XKQovJLK5G34N4tnbyyFJHynCPjglwhpd2hLZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\For Loop - Exercise\\08. Tennis Ranklist\\08. Tennis Ranklist.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

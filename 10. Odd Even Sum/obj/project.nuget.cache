@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZOeN7fXYPWQsD1eoTakjyPgzvckDhAyTmMal46cnH5p+w+aHZ7GHk4oYQvpH29YnCSbygG2Lm9iy9k6kVroyfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\For Loop - Lab\\10. Odd Even Sum\\10. Odd Even Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

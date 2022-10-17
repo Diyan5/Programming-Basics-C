@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KZwKCu/f8I+dVVugPLhToqZ+gHPBRLGIZ+NZVXCHfifzFTSbN/8/Ii0HNnsprbJY73sFuP0kLhqs/QU6fnZuFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\Nested Loops - Exercise\\06. Cinema Tickets\\06. Cinema Tickets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

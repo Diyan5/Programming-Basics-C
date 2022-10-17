@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mkDFGj8+xuUWXvxwVsRQ957upjB9tNAQwAbJ2hI2TnL0xV9Gx6mScp7SHZrNer6T/jp2h/la1jN5ZzgFVgPBUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diyan\\source\\repos\\Nested Loops - Exercise\\05. Special Numbers\\05. Special Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}
